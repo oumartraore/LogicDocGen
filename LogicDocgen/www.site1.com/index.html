@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+	<head>
+		<title> LDAP AUTH </title>
+		
+		<link rel="stylesheet" type="text/css" href="design.css" />
+	</head>
+
+	<body>
+		<div id="menu">
+			<div id="LogoSocieteName">
+				<img alt="Logo de la societe" src="logo.png" width="60px" height="50px"/>
+
+				<h2>SIOCC-Convert</h2>
+			</div>
+			<div id="Lien">
+				<a style="color: white; text-decoration: none; font-size: 20px" href="UploadDirectory/render.php"> File Render </a>
+			</div>
+		</div>
+
+		<div id="header">
+			<h3> Convert TXT file to PDF </h3>
+			<h3> Render cpp File Source code Documentation </h3>
+		</div>
+		
+		<div id="content">
+			<div id="formPart">
+				<form action="./page.php" method="post" enctype="multipart/form-data">
+					<fieldset>
+						<legend> Upload File </legend>
+						<label>
+							Select File : <input type="file" name="file" id="file" />
+						</label>
+						
+						<br /><br /><br /><br />						
+
+						<input type="submit" value="Send File" />
+					</fieldset>
+				</form>
+			</div>
+		
+			<div id="textContent">
+				<p>
+					Welcome !!!. <br />
+					You authenticate with Ldap server. <br />
+				</p>
+				<p>
+					<h2> -Notice </h2>
+					You can convert your <em> (txt) </em> file to pdf <br />
+					And your <em> (cpp) </em> file render File Source Code Documentation.
+				</p>
+				<p>
+					<h2> -First Step </h2>
+					1- You must select file according txt or cpp file. <br />
+					2- Send File. <br />
+					3- Click "File Render" on Menu item.
+				</p>
+				<p>
+					<h2> -Author </h2>
+					<ul>
+						<li>This project made by TRAORE Oumar <br /></li>
+						<li>IDBooster : 165366 <br /></li>
+						<li>Supinfo International University.</li>
+					</ul>
+				</p>
+			</div>
+		</div>
+		
+		<div id="DocProjet">
+			<div id="content1">
+				<a href="Doc/administratorGuide.pdf"> <img alt="Administrator Guide pdf" src="pdfLogo.jpeg" /> </a>
+				<h2> Administrator Guide </h2>
+				
+			</div>
+		
+			<div id="content1">
+				<a href="Doc/technologieChoice.pdf"> <img alt="Technologie choice pdf" src="pdfLogo.jpeg" /> </a>
+                                <h2> Technologie Choice </h2>
+			</div>
+
+			<div id="content1">
+				<a href="Doc/commercialPart.pdf" > <img alt="Commercial part" src="pdfLogo.jpeg" /> </a>
+                                <h2> Commercial part </h2>
+			</div>
+		</div>
+
+		<div id="footer">
+			All right reserved TRAORE Oumar : 165366@supinfo.com - @ 2014.
+		</div>
+
+	</body>
+</html>

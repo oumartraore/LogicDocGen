@@ -1,0 +1,40 @@
+**/ SAMPLE DOC Oumar Exe Conte /**
+*1/ Title 1 /1*
+*2/ Title 2 /2*
+*3/ Title 3 /3*
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+i/ SAMPLE /i
+i/ Defo ton c /i
+*2/ Titre super /2* 
+Je teste le underline u/ SAMPLE /u bonne fin
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+**bl**
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+Bonjour Moussa Doumbouya bi/ SAMPLE /bi c super non
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+**bl**
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+**bl**
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+BONJOUR COUCOU GRAND Darktsar Oumar Exe TRAORE  b/ SAMPLE /b Fin de texte darktsar
+bu/ SAMPLE /bu
+*1/ Title Great /1*
+biu/ SAMPLE /biu
+*2/ Title super /2*
+General de l'arme b/ MARGI /b Coucou Grand
+color:#12345/ TEXT_COLORED /:color
+**bl**
+**bp**
+**tbl**
+Du contenu san style
+

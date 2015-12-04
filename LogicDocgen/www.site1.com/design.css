@@ -1,0 +1,79 @@
+html body
+{
+	
+}
+
+#menu{
+	height: 60px;
+	background-color: black;
+	border: 1px solid black;
+}
+
+#menu #LogoSocieteName{
+	margin-left: 30px;
+	color: white;
+	float: left;
+	width: 500px;
+}
+
+#menu #LogoSocieteName img{
+	float: left;
+}
+
+#menu #Lien{
+	margin-right: 30px;
+	text-decoration: none;
+	color: black;
+	float: right;
+}
+
+#header{
+	height: 90px;
+	text-align: center;
+	border: 1px solid black;
+	background-color: #EEEBEB;
+}
+
+#content{
+	height: 500px;
+	padding-top: 10px;
+	border: 1px solid black;
+	background-color: #FAF8F8;
+}
+
+#content #formPart{
+	margin-left: 30px;
+	float: left;
+	height: 150px;
+	//border: 1px solid black;
+}
+
+#content #textContent{
+	margin-left: 450px;
+	padding-left: 20px;
+	//border: 1px solid black;
+	//background-color: blue;
+}
+
+#DocProjet {
+	background-color: #EEEBEB;
+	border: 1px solid black;	
+	height: 300px;
+}
+
+#DocProjet #content1{
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-right: 60px;
+	float: left;
+	width: 300px;
+}
+
+#footer{
+	height: 70px;
+	padding-top: 30px;
+	color: white;
+	text-align: center;
+	border: 1px solid black;
+	background-color: black;
+}

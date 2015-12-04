@@ -1,0 +1,96 @@
+dn: uid=root,ou=people,dc=freebird,dc=com
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: root
+cn: root
+userPassword: {crypt}$6$d6aL1x97$JVoKQHGHtSvdB3t8iE8y13f3Z4SKxO.Kr42BZbLOfwhbD56vEFglwmQu9SrlDf8b/WbhrKos..EUvAunidu/L1
+shadowLastChange: 16318
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 0
+gidNumber: 0
+homeDirectory: /root
+gecos: root
+
+dn: uid=oumar,ou=people,dc=freebird,dc=com
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: oumar
+cn: oumar
+userPassword: {crypt}$6$U0fBkH1z$BpkQRiuxpXIpypuHs.vD2uRb7PxwqOuqEiliy8cdXZpBnoCmzJzRm9B5VeSHQpHX0JJFxIBYhdUj0BRZkS6HE1
+shadowLastChange: 16318
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 1000
+gidNumber: 1000
+homeDirectory: /home/oumar
+gecos: Oumar,,,
+
+dn: uid=anna,ou=people,dc=freebird,dc=com
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: anna
+cn: anna
+userPassword: {crypt}$6$zm9rIN8L$tWFdcSCkK9R1fVOgj2AWt6SUEee7f5NzOlBbzSeas6qrBB9RArb4MGWSdxcntgbXkJjTchHdvS8U9knwPBwnS.
+shadowLastChange: 16320
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/sh
+uidNumber: 1001
+gidNumber: 1001
+homeDirectory: /home/anna
+gecos: 
+
+dn: uid=julia,ou=people,dc=freebird,dc=com
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: julia
+cn: julia
+userPassword: {crypt}$6$4wPXdwfq$wlIfe2EsSnitglK4zIYco5BVthqkIPQcjMRz2sMZx62czOPxhL/Nl8lO9TU0NG2vfYp6QPBDIEwNaSeN2bRd11
+shadowLastChange: 16320
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/sh
+uidNumber: 1002
+gidNumber: 1002
+homeDirectory: /home/julia
+gecos: 
+
+dn: uid=sarah,ou=people,dc=freebird,dc=com
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: sarah
+cn: sarah
+userPassword: {crypt}$6$yUMEzlup$BJMMvfcb1tC9He1AWKXm1SO7qWzVj1qV02dhNL9SwJwrK82vs4B8hDYmpRdHhmmAT6rZlw1TVDBFNrULTIcTm1
+shadowLastChange: 16320
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/sh
+uidNumber: 1003
+gidNumber: 1003
+homeDirectory: /home/sarah
+gecos: 
+
+dn: uid=bob,ou=people,dc=freebird,dc=com
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: bob
+cn: bob
+userPassword: {crypt}$6$caxgrSi5$PSrCHJ99fMc1CvowtXKqA.UrSfIxi.eTyKqr9aBnNjYsZ1DhlkLWvb59ujWdOnzk.VvGgQoYgxwgMgobvV/vX1
+shadowLastChange: 16320
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/sh
+uidNumber: 1004
+gidNumber: 1004
+homeDirectory: /home/bob
+gecos: 
+

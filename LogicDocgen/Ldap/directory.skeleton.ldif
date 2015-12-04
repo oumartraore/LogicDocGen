@@ -1,0 +1,11 @@
+dn: dc=freebird,dc=com
+objectClass: domain
+dc: freebird
+
+dn: ou=people,dc=freebird,dc=com
+objectClass: organizationalUnit
+ou: people
+
+dn: ou=group,dc=freebird,dc=com
+objectClass: organizationalUnit
+ou: group
