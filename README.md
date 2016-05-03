@@ -20,6 +20,7 @@ Création de pattern pour choisir la mise en forme de la conversion (Titre, ital
 > - PHP
 > - LDAP Auth
 > - Apache2
+> - tfpdf
 
 *NB :* je vous met à disposition la présentation du projet à tire indicatif, ansi que les documents de déploiement.  
 Pour montrer mon sérieu dans l'élaboration d'un projet et mon sens de faire les choses bien.  
@@ -27,7 +28,4 @@ Pour montrer mon sérieu dans l'élaboration d'un projet et mon sens de faire le
 
 #### Information de déploiement
 
-IDE : Netbeans version (je vous le repriserai).
-Serveur Web : Glasfish (idem je vous préciserai la version)
-
-Importer le code sous Netbeans et bien choisir la version all de Netbeans et cliquer sur Run.
+Suivre le manuel
